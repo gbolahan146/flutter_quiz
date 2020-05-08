@@ -1,0 +1,88 @@
+[
+  {
+    "1": "How many tracks are in Start ng program?",
+    "2": "What date does HNG Internship start?",
+    "3": "What are the natural resources in Nigeria?",
+    "4": "Find the odd option",
+    "5": "Which track is the best?",
+    "6": "All but one of the following is not necessary in fighting CoronaVirus",
+    "7": "Where did corona virus originate?",
+    "8": "What did Elon Musk name his child?",
+    "9": "What are Tacha fans called?",
+    "10": "Who won the NS10v10 on twitter?"
+  },
+  {
+    "1": {
+      "a": "None",
+      "b": "2",
+      "c": "15",
+      "d": "4"
+    },
+    "2": {
+      "a": "12th of May",
+      "b": "1st of June",
+      "c": "29th of August",
+      "d": "32nd of May"
+    },
+    "3": {
+      "a": "Wizkid",
+      "b": "Crude oil",
+      "c": "Jollof rice",
+      "d": "Gbolahan Oduyemi"
+    },
+    "4": {
+      "a": "Naruto",
+      "b": "Bleach",
+      "c": "FullMetal Alchemist",
+      "d": "Ben 10"
+    },
+    "5": {
+      "a": "Fronted",
+      "b": "Backend",
+      "c": "Mobile",
+      "d": "Design"
+    },
+    "6": {
+      "a": "Sanitizers",
+      "b": "Condoms",
+      "c": "Soap",
+      "d": "Face masks"
+    },
+    "7": {
+      "a": "Lagos",
+      "b": "Malawi",
+      "c": "Wuhan",
+      "d": "Ibadan"
+    },
+    "8": {
+      "a": "Elon Jnr",
+      "b": "Elton",
+      "c": "Shalewa",
+      "d": "X AE A-12"
+    },
+    "9": {
+      "a": "Titans",
+      "b": "Legends of Tomorrow",
+      "c": "The Defenders",
+      "d": "Doom Patrol"
+    },
+    "10": {
+      "a": "Vybz Kartel",
+      "b": "Wizkid",
+      "c": "Nigeria",
+      "d": "Qatar"
+    }
+  },
+  {
+    "1": "d",
+    "2": "b",
+    "3": "a",
+    "4": "d",
+    "5": "c",
+    "6": "b",
+    "7": "c",
+    "8": "d",
+    "9": "a",
+    "10":"b"
+  }
+]
